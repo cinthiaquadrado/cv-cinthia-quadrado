@@ -31,7 +31,7 @@ dez/2012 - fev/2013.
 * CSS
 
 ### Linguagens de programação
-* Python.
+* Python
 
 ## Cursos completos
 * LGPD e privacidade - WomakersCode.
