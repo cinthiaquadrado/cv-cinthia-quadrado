@@ -3,6 +3,7 @@ Jornalista e desenvolvedora de software em formação
 
 :house:    Santo André/SP <br>
 :envelope:  cinthiayumi10@hotmail.com <br>
+:computer: linkedin.com/in/cinthiaquadrado <br>
 
 ## Formação
 Unesp/Bauru. Bacharel em Comunicação Social, habilitação em Jornalismo. <br>
