@@ -27,12 +27,11 @@ dez/2012 - fev/2013.
 ### Sistemas operacionais
 * Windows
 
-### Front-end
-* HTML
-* CSS
-
-### Linguagens de programação
+### Estudo 
 * Python
+* CSS
+* HTML
+* Javascript
 
 ## Cursos completos
 * LGPD e privacidade - WomakersCode.
