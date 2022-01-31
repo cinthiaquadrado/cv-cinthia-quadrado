@@ -27,7 +27,7 @@ dez/2012 - fev/2013.
 ### Sistemas operacionais
 * Windows
 
-### Estudo 
+### Linguagens
 * Python
 * CSS
 * HTML
