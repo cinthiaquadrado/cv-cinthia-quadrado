@@ -38,9 +38,13 @@ dez/2012 - fev/2013.
 * Linguagem da programação: Python Básico - Fundação Bradesco.
 * Fundamentos da codificação - Google.
 * Fundamentos da programação II - Google.
+* Fundamentos de TI: Hardware e software - Fundação Bradesco.
 * Lógica da programação: Começando a desenvolver seus primeiros programas - IFRS.
 * Introdução à programação - EBANX.
 * Design Thinking - Centro Paula Souza. 
+* O uso de aplicativos web na construção de materiais educacionais - IFRS.
+* Como utilizar o laboratório de informática nas aulas - IFRS.
+* Segurança em tecnologia da informação - Fundação Bradesco.
 
 ## Eventos como participante
 * Elas Codam - Kenzie Academy Brasil e Dupla.
