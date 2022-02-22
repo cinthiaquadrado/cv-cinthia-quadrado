@@ -23,6 +23,8 @@ dez/2012 - fev/2013.
 * Inglês avançado
 * Lógica da programação
 * Wordpress
+* SEO
+* Canvas
 
 ### Sistemas operacionais
 * Windows
