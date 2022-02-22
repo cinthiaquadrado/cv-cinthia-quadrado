@@ -28,12 +28,14 @@ dez/2012 - fev/2013.
 * Windows
 
 ### Linguagens
-* Python
-* CSS
 * HTML
+* CSS
 * Javascript
+* Python
 
 ## Cursos completos
+* HTML5 e CSS3 parte 1: A primeira página da Web - Alura.
+* HTML5 e CSS3 parte 2: Posicionamento, listas e navegação - Alura.
 * Introdução à Ciência de Dados - LinkedIn.
 * Linguagem da programação: Python Básico - Fundação Bradesco.
 * Lógica da programação: Começando a desenvolver seus primeiros programas - IFRS.
