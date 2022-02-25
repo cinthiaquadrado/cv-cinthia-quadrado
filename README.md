@@ -43,6 +43,7 @@ dez/2012 - fev/2013.
 * HTML5 e CSS3 parte 1: A primeira página da Web - Alura.
 * HTML5 e CSS3 parte 2: Posicionamento, listas e navegação - Alura.
 * HTML5 e CSS3 parte 3: Trabalhando com formulários e tabelas - Alura.
+* HTML5 e CSS3 parte 4: Avançando no CSS - Alura.
 * Introdução à Ciência de Dados - LinkedIn.
 * Linguagem da programação: Python Básico - Fundação Bradesco.
 * Lógica da programação: Começando a desenvolver seus primeiros programas - IFRS.
