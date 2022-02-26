@@ -1,12 +1,12 @@
 # Cinthia Quadrado
-29 anos, jornalista e desenvolvedora de software em formação.
+29 anos, jornalista e desenvolvedora Front-End.
 
 :house:    Santo André/SP <br>
 :envelope:  cinthiayumi10@hotmail.com <br>
 :computer: linkedin.com/in/cinthiaquadrado <br>
 
 ## Formação
-UFABC. Bacharelado Interdisciplinar em Ciência e Tecnologia. <br>
+UFABC. Bacharelado Interdisciplinar em Ciência e Tecnologia/Ciência da Computação. <br>
 fev/2022.
 
 Unesp/Bauru. Bacharel em Comunicação Social, habilitação em Jornalismo. <br>
@@ -16,11 +16,20 @@ CSLI. Intercâmbio em Vancouver, Canadá. <br>
 dez/2012 - fev/2013.
 
 ## Experiência profissional
-**Instituto Locomotiva. Analista de Comunicação.**<br>
-2020 - 2021.
+**Instituto tero. Analista de Comunicação** (2015) </br>
+* Desenvolvimento e manutenção do site no Wordpress; </br>
+* Estruturação de páginas e implementação da identidade visual; </br>
+* Edição de imagem/texto e produção de conteúdo. </br>
 
-**Colaborativa Knowledge Builder. Produtora de conteúdo.**<br>
-2018 - 2020.
+**Instituto Locomotiva. Analista de Comunicação** (2020 - 2021).</br>
+* Análise de dados e produção de relatórios; </br>
+* Desenvolvimento de texto e formato de newsletters (estrutura, imagens e vídeos); </br>
+* Atualização do conteúdo do site a partir de técnicas de SEO.</br>
+
+**Colaborativa Knowledge Builder. Produtora de conteúdo** (2018 - 2020). </br>
+* Análise de dados e elaboração de relatórios;</br>
+* Participação ativa em reuniões (Metodologia Ágil);</br>
+* Desenvolvimento de projetos de inovação para experiência do usuário (uso contínuo de conhecimentos em HTML, CSS e UX Writing). </br>
 
 ## Conhecimentos gerais
 * Inglês avançado
