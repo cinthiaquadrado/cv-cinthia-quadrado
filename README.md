@@ -3,7 +3,7 @@
 
 :house:    Santo André/SP <br>
 :envelope:  cinthiayumi10@hotmail.com <br>
-:computer: linkedin.com/in/cinthiaquadrado <br>
+:computer: www.linkedin.com/in/cinthiaquadrado<br>
 
 ## Formação
 UFABC. Bacharelado Interdisciplinar em Ciência e Tecnologia/Ciência da Computação. <br>
