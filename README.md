@@ -53,6 +53,8 @@ dez/2012 - fev/2013.
 * Scrum parte 2: O Manifesto A´gil, Liderança e Organização em Scrum - Alura.
 * Scrum parte 3: Iniciando projetos com Agile - Alura.
 * Scrum parte 4: Planejando projetos com Agile - Alura.
+* Scrum parte 5: Executando projetos com Agile - Alura.
+* Scrum parte 6: Revisão, retrospectiva e encerramentos de projetos com Agile - Alura.
 * Fundamentos de Agilidade: Seus primeiros passos para a Transformação Ágil - Alura.
 * Git e Github: Controle e compartilhe o seu código - Alura.
 * HTML5 e CSS3 parte 1: A primeira página da Web - Alura.
@@ -61,6 +63,7 @@ dez/2012 - fev/2013.
 * HTML5 e CSS3 parte 4: Avançando no CSS - Alura.
 * Flexbox: Posicione elementos na tela - Alura.
 * Javascript: Primeiros Passos com a Linguagem - Alura.
+* Javascript: Programando a Orientação a Objetos - Alura.
 * Introdução à Ciência de Dados - LinkedIn.
 * Linguagem da programação: Python Básico - Fundação Bradesco.
 * Lógica da programação: Começando a desenvolver seus primeiros programas - IFRS.
