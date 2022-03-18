@@ -64,6 +64,7 @@ dez/2012 - fev/2013.
 * Flexbox: Posicione elementos na tela - Alura.
 * Javascript: Primeiros Passos com a Linguagem - Alura.
 * Javascript: Programando a Orientação a Objetos - Alura.
+* HTTP: Entendendo a web por baixo dos panos - Alura.
 * Introdução à Ciência de Dados - LinkedIn.
 * Linguagem da programação: Python Básico - Fundação Bradesco.
 * Lógica da programação: Começando a desenvolver seus primeiros programas - IFRS.
