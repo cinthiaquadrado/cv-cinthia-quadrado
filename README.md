@@ -48,6 +48,9 @@ dez/2012 - fev/2013.
 * Python
 
 ## Cursos completos
+* Acessibilidade web: tornando o seu front-end mais inclusivo - Alura.
+* CSS Grid: simplificando layouts - Alura.
+* jQuery: domine a biblioteca mais popular do mercado - Alura.
 * Scrum: Agilidade em seu projeto - Alura. 
 * Scrum parte 1: Gerencie o seu projeto de forma ágil - Alura.
 * Scrum parte 2: O Manifesto A´gil, Liderança e Organização em Scrum - Alura.
@@ -55,6 +58,7 @@ dez/2012 - fev/2013.
 * Scrum parte 4: Planejando projetos com Agile - Alura.
 * Scrum parte 5: Executando projetos com Agile - Alura.
 * Scrum parte 6: Revisão, retrospectiva e encerramentos de projetos com Agile - Alura.
+* Kanban: Fundamentos essenciais - Alura.
 * Fundamentos de Agilidade: Seus primeiros passos para a Transformação Ágil - Alura.
 * Git e Github: Controle e compartilhe o seu código - Alura.
 * HTML5 e CSS3 parte 1: A primeira página da Web - Alura.
@@ -64,6 +68,8 @@ dez/2012 - fev/2013.
 * Flexbox: Posicione elementos na tela - Alura.
 * Javascript: Primeiros Passos com a Linguagem - Alura.
 * Javascript: Programando a Orientação a Objetos - Alura.
+* Fundamentos do Javascript: Arrays - Alura.
+* Fundamentos do Javascript: Tipos, variáveis e funções - Alura.
 * HTTP: Entendendo a web por baixo dos panos - Alura.
 * Introdução à Ciência de Dados - LinkedIn.
 * Linguagem da programação: Python Básico - Fundação Bradesco.
