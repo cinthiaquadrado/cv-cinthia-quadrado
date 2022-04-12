@@ -36,6 +36,7 @@ dez/2012 - fev/2013.
 * Lógica da programação
 * Wordpress
 * SEO
+* Photoshop
 * Canvas
 
 ### Sistemas operacionais
