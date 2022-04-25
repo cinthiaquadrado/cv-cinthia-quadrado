@@ -50,6 +50,8 @@ dez/2012 - fev/2013.
 
 ## Cursos completos
 * Acessibilidade web: tornando o seu front-end mais inclusivo - Alura.
+* Algoritmos com Javascript I: Iniciando com Algoritmos de Ordenação - Alura.
+* Acessibilidade web: tornando o seu front-end mais inclusivo - Alura.
 * CSS Grid: simplificando layouts - Alura.
 * jQuery: domine a biblioteca mais popular do mercado - Alura.
 * Scrum: Agilidade em seu projeto - Alura. 
