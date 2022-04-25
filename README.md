@@ -32,15 +32,15 @@ dez/2012 - fev/2013.
 * Desenvolvimento de projetos de inovação para experiência do usuário (uso contínuo de conhecimentos em HTML, CSS e UX Writing). </br>
 
 ## Conhecimentos gerais
-* Inglês avançado
 * Lógica da programação
 * Wordpress
 * SEO
 * Photoshop
-* Canvas
+* Inglês avançado
 
 ### Sistemas operacionais
 * Windows
+* macOS
 
 ### Linguagens
 * HTML
@@ -71,6 +71,8 @@ dez/2012 - fev/2013.
 * Javascript: Programando a Orientação a Objetos - Alura.
 * Fundamentos do Javascript: Arrays - Alura.
 * Fundamentos do Javascript: Tipos, variáveis e funções - Alura.
+* Fundamentos do Javascript: Objetos - Alura.
+* Introdução ao PHP: Primeiros passos com a linguagem - Alura.
 * HTTP: Entendendo a web por baixo dos panos - Alura.
 * Introdução à Ciência de Dados - LinkedIn.
 * Linguagem da programação: Python Básico - Fundação Bradesco.
