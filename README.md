@@ -57,6 +57,7 @@ dez/2012 - fev/2013.
 * jQuery: domine a biblioteca mais popular do mercado - Alura.
 * Layouts responsivos: trabalhando com layouts mobile - Alura.
 * NodeJS: Criando sua Primeira Biblioteca - Alura.
+* Node.js: API Rest com Express e MongoDB - Alura.
 * Plugin no Wordpress: Widget, shortcode e configurações - Alura.
 * Scrum: Agilidade em seu projeto - Alura. 
 * Scrum parte 1: Gerencie o seu projeto de forma ágil - Alura.
