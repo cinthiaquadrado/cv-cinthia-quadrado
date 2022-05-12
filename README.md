@@ -50,9 +50,14 @@ dez/2012 - fev/2013.
 
 ## Cursos completos
 * Algoritmos com Javascript I: Iniciando com Algoritmos de Ordenação - Alura.
+* Algoritmos com Javascript II: Aprofundando em Algoritmos de Ordenação e Busca - Alura.
 * Acessibilidade web: tornando o seu front-end mais inclusivo - Alura.
+* Bootsrap 4: Criando uma Landing Page responsiva - Alura.
 * CSS Grid: simplificando layouts - Alura.
 * jQuery: domine a biblioteca mais popular do mercado - Alura.
+* Layouts responsivos: trabalhando com layouts mobile - Alura.
+* NodeJS: Criando sua Primeira Biblioteca - Alura.
+* Plugin no Wordpress: Widget, shortcode e configurações - Alura.
 * Scrum: Agilidade em seu projeto - Alura. 
 * Scrum parte 1: Gerencie o seu projeto de forma ágil - Alura.
 * Scrum parte 2: O Manifesto A´gil, Liderança e Organização em Scrum - Alura.
@@ -75,6 +80,8 @@ dez/2012 - fev/2013.
 * Fundamentos do Javascript: Objetos - Alura.
 * Introdução ao PHP: Primeiros passos com a linguagem - Alura.
 * HTTP: Entendendo a web por baixo dos panos - Alura.
+* Wordpress: Criação de um Tema Personalizado - Alura.
+* Wordpress: Sites com Elementor - Alura.
 * Introdução à Ciência de Dados - LinkedIn.
 * Linguagem da programação: Python Básico - Fundação Bradesco.
 * Lógica da programação: Começando a desenvolver seus primeiros programas - IFRS.
