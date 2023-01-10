@@ -1,5 +1,5 @@
 # Cinthia Quadrado
-29 anos, jornalista e desenvolvedora Front-End.
+30 anos, jornalista e desenvolvedora.
 
 :house:    Santo André/SP <br>
 :envelope:  cinthiayumi10@hotmail.com <br>
@@ -16,6 +16,12 @@ CSLI. Intercâmbio em Vancouver, Canadá. <br>
 dez/2012 - fev/2013.
 
 ## Experiência profissional
+**Itaú Unibanco. Estagiária** (set/2022 - atualmente). </br>
+* Automação de processos com Python; </br>
+* Desenvolvimento de fluxos de trabalho com Alteryx; </br>
+* Utilização de SQL para buscas e execução de rotinas diárias; </br>
+* Manutenção e acompanhamento de painéis no Tableau. </br>
+
 **Instituto tero. Analista de Comunicação** (2015) </br>
 * Desenvolvimento e manutenção do site no Wordpress; </br>
 * Estruturação de páginas e implementação da identidade visual; </br>
