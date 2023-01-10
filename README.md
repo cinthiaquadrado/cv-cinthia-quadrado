@@ -38,7 +38,6 @@ dez/2012 - fev/2013.
 * Desenvolvimento de projetos de inovação para experiência do usuário (uso contínuo de conhecimentos em HTML, CSS e UX Writing). </br>
 
 ## Conhecimentos gerais
-* Lógica da programação
 * Wordpress
 * SEO
 * Photoshop
@@ -48,11 +47,13 @@ dez/2012 - fev/2013.
 * Windows
 * macOS
 
-### Linguagens
-* HTML
+### Conhecimentos específicos
 * CSS
 * Javascript
 * Python
+* SQL
+* Alteryx
+* Tableau
 
 ## Cursos completos
 * Algoritmos com Javascript I: Iniciando com Algoritmos de Ordenação - Alura.
