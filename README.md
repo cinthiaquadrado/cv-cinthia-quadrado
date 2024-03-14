@@ -1,5 +1,5 @@
 # Cinthia Quadrado
-30 anos, jornalista e desenvolvedora.
+31 anos, jornalista e analista de dados.
 
 :house:    Santo André/SP <br>
 :envelope:  cinthiayumi10@hotmail.com <br>
@@ -7,7 +7,7 @@
 
 ## Formação
 UFABC. Bacharelado Interdisciplinar em Ciência e Tecnologia/Ciência da Computação. <br>
-fev/2022.
+fev/2022 - fev/2026.
 
 Unesp/Bauru. Bacharel em Comunicação Social, habilitação em Jornalismo. <br>
 fev/2011 - mar/2015.
@@ -16,7 +16,7 @@ CSLI. Intercâmbio em Vancouver, Canadá. <br>
 dez/2012 - fev/2013.
 
 ## Experiência profissional
-**Itaú Unibanco. Estagiária** (set/2022 - atualmente). </br>
+**Itaú Unibanco. Estagiária** (set/2022 - mar/2024). </br>
 * Automação de processos com Python; </br>
 * Desenvolvimento de fluxos de trabalho com Alteryx; </br>
 * Utilização de SQL para buscas e execução de rotinas diárias; </br>
@@ -41,7 +41,8 @@ dez/2012 - fev/2013.
 * Wordpress
 * SEO
 * Photoshop
-* Inglês avançado
+* InDesign
+* Inglês intermediário
 
 ### Sistemas operacionais
 * Windows
@@ -54,6 +55,7 @@ dez/2012 - fev/2013.
 * SQL
 * Alteryx
 * Tableau
+* Power BI
 
 ## Cursos completos
 * Algoritmos com Javascript I: Iniciando com Algoritmos de Ordenação - Alura.
@@ -102,7 +104,3 @@ dez/2012 - fev/2013.
 * O uso de aplicativos web na construção de materiais educacionais - IFRS.
 * Como utilizar o laboratório de informática nas aulas - IFRS.
 * Segurança em tecnologia da informação - Fundação Bradesco.
-
-## Eventos como participante
-* Elas Codam - Kenzie Academy Brasil e Dupla.
-* (Re)Start Data Science - Data Girls.
